@@ -1,0 +1,11 @@
+.pay {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn-back {
+    background-color: white;
+    color: black;
+    margin-right: 1vw;
+}
